@@ -33,6 +33,7 @@ gem 'omniauth-google-oauth2'
 
 group :production do
   gem 'passenger'
+  gem 'pg'
 end
 
 
